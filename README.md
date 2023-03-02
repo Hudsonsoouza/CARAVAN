@@ -1,5 +1,7 @@
 <h1>CARAVAN</h1>
-Este é um projeto simples de um site de viagens fictício chamado "CARAVAN". O site foi desenvolvido utilizando Bootstrap 4 e é responsivo e moderno.
+Este é um projeto simples de um site de viagens fictício chamado "CARAVAN". O site foi desenvolvido utilizando Bootstrap 4 e é responsivo e moderno.<br>
+
+Link do projeto online: https://hudsonsoouza.github.io/CARAVAN/
 
 <h1>Instalação</h1>
 Para executar o projeto, você precisará de um servidor web. Uma opção popular é o Apache.
